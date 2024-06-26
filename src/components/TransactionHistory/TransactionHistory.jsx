@@ -1,4 +1,4 @@
-import './TransactionHistory.css'
+import './TransactionHistory.module.css'
 
 const thStyles = {
     border: "black solid 1px",
